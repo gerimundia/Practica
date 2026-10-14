@@ -3,4 +3,7 @@
 
 a <- 2 + 2
 
+d <- "Probando"
+
 e <- "Elefante"
+
